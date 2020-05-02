@@ -1,0 +1,17 @@
+article {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 1em;
+  width: 30%;
+  height: 10em;
+  border: 1px solid black;
+}
+
+button {
+  width: 70%;
+  height: 3em;
+  background-color: white;
+  border: .5px solid black;
+ }

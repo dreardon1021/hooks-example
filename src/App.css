@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: lightcyan;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  width: fit-content;
+  height: 1em;
+  margin-top: .5em;
+}
+
+.content {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
